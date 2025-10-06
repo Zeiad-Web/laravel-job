@@ -28,7 +28,7 @@ The online recruitment website is important for attracting talent in various fie
 
 
 
- ## Author Contact
+ ## Contact us 
   Contact me with any questions!<br>
 
   Email: zeiadalriqi@gmail.com<br>
