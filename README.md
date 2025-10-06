@@ -1,7 +1,5 @@
 # About Joblister
-Joblister is made with laravel 8 and vue js. <br/>
-Having user,author,admin role and permissions <br/>
-Live : [Click Me](http://joblister-laravel-8.herokuapp.com) <br/>
+
 
 <br />
 >Installation at the bottom 
@@ -12,27 +10,6 @@ Live : [Click Me](http://joblister-laravel-8.herokuapp.com) <br/>
 
 <p>
     
-### Home Page
-<a href="https://i.ibb.co/FJytDVn/Screenshot-61.png"><img src="https://i.ibb.co/FJytDVn/Screenshot-61.png" target="_blank" alt="Capture" border="0" /></a>
-<br />
-
-### Vuejs Spa Job finder
-<a href="https://i.ibb.co/sJwZw8x/Screenshot-66.png"><img src="https://i.ibb.co/sJwZw8x/Screenshot-66.png" target="_blank" alt="Screenshot-23"
-border="0" /></a>
-<br />
-
-### Post Description panel
-<a href="https://i.ibb.co/gMTxxj2/Screenshot-69.png"><img src="https://i.ibb.co/gMTxxj2/Screenshot-69.png" target="_blank" alt="Screenshot-9"
-border="0" /></a>
-<br />
-
-### Author Dashboard
-<a href="https://i.ibb.co/C6JKQ1h/Screenshot-78.png"><img src="https://i.ibb.co/C6JKQ1h/Screenshot-78.png" alt="Screenshot-46" border="0" /></a>
-<br />
-
-### Admin Dashboard
-<a href="https://i.ibb.co/mD4961P/Screenshot-79.png"><img src="https://i.ibb.co/mD4961P/Screenshot-79.png" alt="Screenshot-46" border="0" /></a>
-<br />
 
 </p>
 
