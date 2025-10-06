@@ -1,61 +1,38 @@
-# About Joblister
 
 
-<br />
->Installation at the bottom 
-<br />
+## Complete Job Website in  Laravel
+The online recruitment website is important for attracting talent in various fields. An easy-to-use digital website is available for all companies to post job openings, and for job seekers to create their profiles to apply for jobs online.
 
-<br />
-## Screenshots of this app
 
-<p>
-    
 
-</p>
+#
 
-## Installations
+### Set up :
 
-<br />
-## If you receive and error while installation below::
+1. Clone the repo and cd into it
+2. In your terminal ```composer install```
+3. Rename or copy ```.env.example``` file to ``.env``
+4. php artisan key:generate
+5. Set your database credentials in your ```.env``` file
+6. Set your Braintree credentials in your ```.env``` file if you want to use PayPal
+7. Import db file(```database/e-shop.sql```) into your database (```mysql,sql```)
+8. ```npm install```
+9. ```npm run watch```
+10. run command[laravel file manager]:-  ```php artisan storage:link```
+11. Edit ```.env``` file :- remove APP_URL
+10. ```php artisan serve``` or use virtual host
+11. Visit ```localhost:8000``` in your browser
+12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```1111```. User Email/Password: ```user@gmail.com```/```1111```
 
-> run composer update instead of composer install
-> also run php artisan key:generate
+<p style="text-align:center">Thank You so much for your time Enjoy the code. !!!</p>
 
-## 1. Clone the repository
 
-> https://github.com/nishangupta/joblister-laravel-8.git
 
-<br />
+ ## Author Contact
+  Contact me with any questions!<br>
 
-## 2. Set the basic config
+  Email: zeiadalriqi@gmail.com<br>
+  Whatsapp: +967-775932431
 
-> Edit example.env to .env <br />
-> Put your db username and password here with DB_DATABASE=job_lister. <br />
-> ''' <br />
-
-    DB_CONNECTION=mysql <br />
-    DB_HOST=127.0.0.1 <br />
-    DB_PORT=3306 <br />
-    DB_DATABASE=job_lister <br /> !important
-    DB_USERNAME=root <br />
-    DB_PASSWORD= <br />
-
-'''
-<br />
-
-## 3. Install Dependencies
-
-> ~composer install <br />
-> ~npm install <br />
-> ~npm run dev
-> <br />
-
-## 4. Migrate Database
-
-> ~php artisan migrate:fresh <br />
-> ~php artisan db:seed <br /> > <br />
-
-## 5. Serve application
-
-> ~php artisan serve <br />
-
+  #
+<p style="text-align:center">Thank You so much for your time Enjoy the code. !!!</p>
